@@ -1,1 +1,2 @@
 # OIBSIP3
+The "Predicting Used Car Prices" project leverages machine learning and data science techniques to forecast prices of pre-owned vehicles. By analyzing historical data and implementing advanced algorithms, the project aims to accurately predict the values of used cars. This practical application demonstrates the efficacy of data-driven methods in pricing prediction within the automotive industry.
